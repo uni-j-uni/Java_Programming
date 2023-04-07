@@ -1,0 +1,11 @@
+JAVA
+ - 장점 : 하나의 OS에 한정되지 않고 여러 OS에서 실행할 수 있다.
+          : Object-Oriented Programming여서, Object를 만들고 서로 연결해서 큰 program을 완성할 수 있다.
+ - 단점 : code를 running하는 속도가 다른 Language에 비해 느리다.
+          : Data를 Backup하는 기능이 없으며, 상당한 memory를 차지한다.
+
+C/C++
+ - 장점 : code의 속도가 빨라서 embedded, system programming 등에서 주로 사용하기 쉽다.
+          : 다양한 type들과 operator들이 있기 때문에 힘든 작업을 몇 개의 line 만으로도 수행할 수 있다.
+ - 단점 : C/C++은 JAVA에 비해 Low-Level Language이므로 다른 High-Level Language에 비해 배우기가 어렵다.
+          : type을 신경쓰지 않고 연산 처리를 하게 되면 찾아내기 어려운 programming error가 발생할 수 있다.

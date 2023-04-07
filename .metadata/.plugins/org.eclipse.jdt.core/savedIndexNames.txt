@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\0109y\OneDrive\문서\서경대학교\SKU\Major\Java_Programming\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+3922062443.index
+3378336266.index
