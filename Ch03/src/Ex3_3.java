@@ -1,4 +1,4 @@
-import java.util.Scanner;
+ import java.util.Scanner;
 
 public class Ex3_3 {
 	public static int sum(int n)
